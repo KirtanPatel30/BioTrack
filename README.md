@@ -1,4 +1,5 @@
-#  BioTrack  (Release 1)
+#  BioTrack A full stack Web Application
+
 
 This is a simple FastAPI backend for your Animal Encyclopedia project, using your `Animal Dataset.csv` as the data source.
 
